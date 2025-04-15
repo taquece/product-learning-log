@@ -1,1 +1,2 @@
-# Product Learnin Log
+# Product Learning Log
+trying to learn the basics
